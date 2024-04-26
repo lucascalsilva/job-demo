@@ -1,0 +1,12 @@
+[
+  {
+    "patientDocumentId": "112233",
+    "patientProfile": "BRONZE",
+    "accessFrequency": "HIGH"
+  },
+  {
+    "patientDocumentId": "445566",
+    "patientProfile": "SILVER",
+    "accessFrequency": "MEDIUM"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "emailType": "RISK_RECURRENCE",
+    "description": "Could you be at risk of recurrence?"
+  },
+  {
+    "emailType": "STAYING_TRACK_TREATMENT",
+    "description": "Staying on track with your treatment"
+  },
+  {
+    "emailType": "LIVE_HEALTHIER",
+    "description": "Find out how to live healthier"
+  },
+  {
+    "emailType": "HEALTHY_TIPS",
+    "description": "Get healthy living tips"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "customer": "PFIZER",
+  "patientRecommendations": [
+    {
+      "patients": [
+        {
+          "patientId": "",
+          "name": "",
+          "email": ""
+        }
+      ],
+      "recommendations": [
+        {
+          "recommendationType": "SCHEDULE_TIME_OF_DAY",
+          "value": "20"
+        }
+      ]
+    }
+  ]
+}
